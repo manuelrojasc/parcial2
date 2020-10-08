@@ -1,0 +1,19 @@
+{
+  "name": "parcial2",
+  "version": "1.0.0",
+  "description": "this is a practice 2 for integration class",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelrojasc/parcial2.git"
+  },
+  "author": "marc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelrojasc/parcial2/issues"
+  },
+  "homepage": "https://github.com/manuelrojasc/parcial2#readme"
+}
